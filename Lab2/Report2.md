@@ -4,7 +4,8 @@
 
 1. Функция `main` отвечает за считывание и преобразование входной строки в массив, вызов вспомогательных функций и вывод результата.
 
-![image](https://github.com/user-attachments/assets/457b9d31-6689-4f09-a1c6-bbbca0b40f8a)
+![image](https://github.com/user-attachments/assets/d7629cb4-5fae-406c-ac29-5505d2122b6a)
+
 
 ```
 function main ()
@@ -33,7 +34,8 @@ function main ()
 
 2. Далее преобразуем числа из десятичной записи в двоичную.
 
-![image](https://github.com/user-attachments/assets/0ca169c5-4493-49a9-999c-765e0ef4d43f)
+![image](https://github.com/user-attachments/assets/a9b1e7c1-103d-43db-9b71-ee3fcdf7cb41)
+
 
 ```
 function convertToBase () # (Val Base)
@@ -50,6 +52,8 @@ function convertToBase () # (Val Base)
 ```
 3. Для вывода чисел в одном формате добавляем в их начало нули до 8.
 
+![image](https://github.com/user-attachments/assets/8c0d590b-0651-403a-91eb-7df2415778b6)
+
 ```
 function convertToBase () # (Val Base)
 {
@@ -64,6 +68,10 @@ function convertToBase () # (Val Base)
 }
 ```
 4. Работа программы на разных данных.
+
+![image](https://github.com/user-attachments/assets/719901f0-29ce-4d6c-8db2-f48d337647ab)
+
+![image](https://github.com/user-attachments/assets/07aa6d3a-e5e0-42d4-a732-26ee8a616514)
 
 ### Вывод
 Был изучен синтаксис bash для написания простых программ: условия, циклы, массивы, функции. Также были изучены основные особенности работы программ и запуска скриптов.
